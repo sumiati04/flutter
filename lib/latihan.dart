@@ -18,7 +18,7 @@ class LatihanWidget extends StatelessWidget {
             child: Container(
               margin: EdgeInsets.all(20),
               color: Colors.brown,
-              child: Image.asset('assets/img/mawar.jpg', width: 60, height: 60),
+              child: Image.asset('img/mawar.jpg', width: 60, height: 60),
             ),
           ),
           Container(
@@ -30,8 +30,7 @@ class LatihanWidget extends StatelessWidget {
               child: Container(
                 margin: EdgeInsets.all(20),
                 color: Colors.brown,
-                child:
-                    Image.asset('assets/img/mawar.jpg', width: 60, height: 60),
+                child: Image.asset('img/mawar.jpg', width: 60, height: 60),
               )),
         ],
       ),
